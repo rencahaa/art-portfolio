@@ -1,13 +1,18 @@
-hello
+![bammer or logo image perhaps?](https://i.postimg.cc/QtpXgwvS/IMG-7357.png)
+# hello
 
-here is my test site!
-
-here is a test image
-![alternate txt test](https://i.postimg.cc/QtpXgwvS/IMG-7357.png)
+I like to draw! Here's some of the things I've drawn.
 
 
-and here is some other test image
 
-<img style="float: right;" src="[test!](https://i.postimg.cc/QtpXgwvS/IMG-7357.png)">
 
-i wonder where text will be displayed relative to it?
+[//]: # (the block to reuse for each type of thing)
+
+## Drawception
+<p float="left">
+  <img src="https://i.postimg.cc/QtpXgwvS/IMG-7357.png" width="33%" /> 
+  <img src="https://i.postimg.cc/QtpXgwvS/IMG-7357.png" width="33%" />
+</p>
+write something about drawception
+
+[see more](google.com)
