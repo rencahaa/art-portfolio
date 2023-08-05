@@ -23,4 +23,15 @@ Here are some digital pieces I've done, including those of others' characters, a
 </p>
 
 ## Drawception style
-
+<p float="left">
+	<img src="https://cdn.drawception.com/sandbox/746194/T2w6Q34tHA.png" width="24%" />
+	<img src="https://cdn.drawception.com/sandbox/746194/kR0c4rRT7j.png" width="24%" />
+	<img src="https://cdn.drawception.com/sandbox/746194/9twmwKN95f.png" width="24%" />
+	<img src="https://cdn.drawception.com/sandbox/746194/2B25YO0cFw.png" width="24%" />
+</p>
+<p float="left">
+	<img src="https://cdn.drawception.com/sandbox/746194/3a17xk73c2.png" width="24%" />
+	<img src="https://cdn.drawception.com/sandbox/746194/ozHAkvWW7R.png" width="24%" />
+	<img src="https://cdn.drawception.com/sandbox/746194/qrR5hYCMdX.png" width="24%" />
+	<img src="https://i.postimg.cc/HkbFKDd7/Untitled-1.png" width="24%" />
+</p>
