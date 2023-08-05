@@ -19,4 +19,4 @@ I like to draw! Here's some of the things I've drawn.
 </p>
 write something about drawception
 
-[see more](google.com)
+[see more](drawception_game.md)
