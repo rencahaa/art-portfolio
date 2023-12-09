@@ -1,3 +1,5 @@
 theme: minima
 name: rencaha's art portfolio
-title: null
+title: art-portfolio
+header_pages:
+  - Index.md
