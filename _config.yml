@@ -2,7 +2,3 @@ theme: minima
 name: rencaha's art portfolio
 title: art-portfolio
 header_pages:
-  - digital_art.md
-  - drawception_game.md
-  - traditional_art.md
-  - laundromat.md
