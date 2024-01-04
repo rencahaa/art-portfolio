@@ -1,7 +1,6 @@
 theme: minima
 name: rencaha's art portfolio
 title: art-portfolio
-title-heading: false
 header_pages:
   - digital_art.md
   - drawception_game.md
