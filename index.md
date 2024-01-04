@@ -1,6 +1,3 @@
-
-## Hi
-
 I like to draw, and here are some of the things I've drawn.
 
 ## Digital art
