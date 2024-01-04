@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 ## Hi
 
 I like to draw, and here are some of the things I've drawn.
