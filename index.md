@@ -1,4 +1,4 @@
-I like to draw, and here are some of the things I've drawn.
+Hi! I go by **rencaha** and I like to draw and sometimes code. Here are some of the things I've made.
 
 ## Digital art
 <p float="left">
@@ -31,5 +31,8 @@ Traditional sketches.
 
 ## Visual novel game
 A short game about going to the laundromat. Coming soon!
+<p float="left">
+	<img src="https://i.postimg.cc/JnrHqJ4p/Screenshot-2024-01-04-at-17-49-13.png" width="48%" />
+</p>
 
 [see more](laundromat.md)
